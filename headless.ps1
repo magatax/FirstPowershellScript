@@ -1,7 +1,7 @@
 #--configuration---
 $VBoxManage = "C:\Program Files\Oracle\VirtualBox\VBoxManage.exe"
 $ParrotVM = "Parrot HTB"
-$KaliVM = "kali-linux-2026.1-vbox-amd64"
+$KaliVM = "kali-linux-2026.1-virtualbox-amd64"
 
 #---IP Address of the VMs---
 $ParrotIP = "192.168.56.104"
