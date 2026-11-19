@@ -19,6 +19,11 @@ A PowerShell module containing basic reconnaissance-related functions.
 - Module imports and exports
 - Active Directory reconnaissance concepts
 
+### 2. Headless ('headless.ps1')
+A powershell script that I made to enable me log in to my VMs headlessly faster. Saves time and memory resources
+
+
+
 ## Technologies
 
 - PowerShell
@@ -34,6 +39,7 @@ FirstPowerShellScript/
 │
 ├── firstscript.ps1
 ├── quick-recon.psm1
+├── headless.ps1
 └── README.md
 ```
 
